@@ -13,4 +13,5 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 <img src="fuzzyGit.jpg" alt="alt text" width="300">
 
 #### The third step is Activation: 
+<img src="actgit.jpg" alt="alt text" width="300">
 
