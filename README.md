@@ -21,6 +21,14 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 #### The second step is Fuzzy Logic:
 <img src="fuzzyGit.jpg" alt="alt text" width="300">
 
+```python
+    muLow = 1 - P_H_given_E  # Low Threat
+    muHigh = P_H_given_E  # High Threat
+
+    print("\nStep Two:\nLow Threat (μLow):", muLow)
+    print("High Threat (μHigh):", muHigh)
+```
+
 #### The third step is Activation: 
 <img src="actgit.jpg" alt="alt text" width="300">
 
