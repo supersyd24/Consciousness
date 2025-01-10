@@ -11,4 +11,5 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 
 #### The second step is Fuzzy Logic:
 Fuzzy Sets = based on P(H|E)
+![alt text](fuzzyGit.jpg)
 
