@@ -78,3 +78,12 @@ q = indivdual with Anti Social Personality disorder (ASPD) or Narcisstic Persona
 #### Both can pass the Turing Test 
 - One (p) having no free will
 - One (q) having no empathy *(ASPD)* or *(NPD)*
+
+```python
+  proof_condition = P_H_given_E > 0.80
+  if proof_condition:
+        print("\nStep Five:\nCondition (P(H|E) > 0.80) is TRUE.")
+        print("(p ∧ r) ∨ q holds true.")
+  else:
+        print("\nStep Five:\nCondition (P(H|E) > 0.80) is FALSE.")
+```
