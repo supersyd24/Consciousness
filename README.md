@@ -4,7 +4,8 @@
 This code uses my Mathematical Framework for Modeling Consciousness and puts it into code. 
 You can find my Mathematical Framework for Modeling Consciousness [here](https://heartfelt-fairy-92af03.netlify.app/research)
 
-You can find my code [here](mathematical.py)
+You can find my code that uses example numbers [here](mathematical.py) <br>
+You can find my code that takes in numbers from the user [here](UserData_Math.py)
 
 
 ## Walkthrough of my code
