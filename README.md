@@ -32,3 +32,30 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 #### The third step is Activation: 
 <img src="actgit.jpg" alt="alt text" width="300">
 
+```python
+    if 3600 <= time_in_seconds < 5400:
+        f_t = 2
+    elif time_in_seconds >= 5400:
+        f_t = 1
+    else:
+        f_t = 0
+
+    print("\nStep Three:\nTime (t):", time_in_seconds, "seconds")
+    print("Threshold Function f(t):", f_t)
+
+    if f_t == 2:
+        print("Glutamate is strongly activated.")
+        if time_in_seconds < 3600:
+            print("Program stops as t < 3600.")
+            return
+    elif f_t == 1:
+        print("Moderate activation: Extra Synaptic GABA is activated.")
+        if time_in_seconds < 3600:
+            print("Program stops as t < 3600.")
+            return
+    else:
+        print("No significant activation.")
+        if time_in_seconds < 3600:
+            print("Program stops as t < 3600.")
+            return
+```
