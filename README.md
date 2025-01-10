@@ -24,9 +24,6 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ```python
     muLow = 1 - P_H_given_E  # Low Threat
     muHigh = P_H_given_E  # High Threat
-
-    print("\nStep Two:\nLow Threat (μLow):", muLow)
-    print("High Threat (μHigh):", muHigh)
 ```
 
 ### The third step is Activation: 
@@ -39,9 +36,6 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
         f_t = 1
     else:
         f_t = 0
-
-    print("\nStep Three:\nTime (t):", time_in_seconds, "seconds")
-    print("Threshold Function f(t):", f_t)
 
     if f_t == 2:
         print("Glutamate is strongly activated.")
@@ -63,3 +57,12 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 <img src="baygit.jpg" alt="alt text" width="200">
 <img src="baytgit.jpg" alt="alt text" width="300">
 
+```python
+    P_H = muHigh  # Updated Prior Probability
+    P_E_given_H = 0.56  # Likelihood that life is in danger
+    P_E_given_not_H = muLow  # Likelihood that life is not in danger
+
+    P_E = P_E_given_H * P_H + P_E_given_not_H * (1 - P_H)  # Marginal Probability
+    P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
+
+```
