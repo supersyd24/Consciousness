@@ -66,3 +66,6 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
     P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
 
 ```
+### The fifth step is the Turing Proof
+It excutes if P(H|E) > 0.80 
+Meaning the indivdual has Stockholm Syndrome
