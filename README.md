@@ -111,5 +111,8 @@ I propose to *think* means to:
 - Have free will
 - Have empathy
 
-if **(p ∧ r) ∨ q** holds true then they shouldnt be able to pass The Turing Test but they do because they are human. 
+if **(p ∧ r) ∨ q** holds true.<br>
+They shouldnt be able to pass The Turing Test but they do because they are human.<br>
+(p ∧ r) ∨ q is equivalent to the most advanced Artifical Intelligence systems.
+
 
