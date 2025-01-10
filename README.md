@@ -69,3 +69,12 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ### The fifth step is the Turing Proof
 It excutes if P(H|E) > 0.80 
 Meaning the indivdual has Stockholm Syndrome
+and (p ∧ r) ∨ q holds true
+
+p = indivdual with empathy 
+r = Stockholm Syndrome 
+q = indivdual with Anti Social Personality disorder (ASPD) or Narcisstic Personality disorder (NPD)
+
+#### Both can pass the Turing Test 
+- One (p) having no free will
+- One (q) having no empathy *(ASPD)* or *(NPD)*
