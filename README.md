@@ -7,7 +7,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 You can find my code [here](mathematical.py)
 
 
-#### Walkthrough of my code
+## Walkthrough of my code
 
 ### The first step is Bayes Inference:
 <img src="baytgit.jpg" alt="alt text" width="300">
