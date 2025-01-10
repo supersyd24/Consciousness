@@ -15,7 +15,8 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
     P_E_given_not_H = 0.79  # Likelihood that threat is not real
 
     P_E = P_E_given_H * P_H + P_E_given_not_H * (1 - P_H)  # Marginal Probability
-    P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability```
+    P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
+```
 
 #### The second step is Fuzzy Logic:
 <img src="fuzzyGit.jpg" alt="alt text" width="300">
