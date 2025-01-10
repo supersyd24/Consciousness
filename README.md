@@ -59,3 +59,4 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
             print("Program stops as t < 3600.")
             return
 ```
+#### The fourth step is Bayes Inference again: 
