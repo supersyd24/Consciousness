@@ -7,6 +7,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ### Steps
 
 #### The first step is Bayes Inference:
+<img src="baytgit.jpg" alt="alt text" width="300">
 
 ```python
  P_H = 0.78  # Prior Probability (Environment is dangerous)
