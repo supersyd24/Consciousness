@@ -62,6 +62,10 @@ You can find my code [here](mathematical.py)
             print("Program stops as t < 3600.")
             return
 ```
+
+---
+
+
 ### The fourth step is Bayes Inference again: 
 <img src="baygit.jpg" alt="alt text" width="200">
 <img src="baytgit.jpg" alt="alt text" width="300">
@@ -75,6 +79,10 @@ You can find my code [here](mathematical.py)
     P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
 
 ```
+
+---
+
+
 ### The fifth step is the Turing Proof
 It excutes if P(H|E) > 0.80<br> 
 Meaning the indivdual has Stockholm Syndrome
