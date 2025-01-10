@@ -106,10 +106,10 @@ q = indivdual with Anti Social Personality disorder (ASPD) or Narcisstic Persona
 ```
 
 #### Why this matters 
-I propose to think means to: 
+I propose to *think* means to: 
 
 - Have free will
 - Have empathy
 
-if (p ∧ r) ∨ q holds true then they shouldnt be able to pass The Turing Test but they do because they are human. 
+if **(p ∧ r) ∨ q** holds true then they shouldnt be able to pass The Turing Test but they do because they are human. 
 
