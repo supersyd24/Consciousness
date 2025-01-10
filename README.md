@@ -71,8 +71,8 @@ It excutes if P(H|E) > 0.80
 Meaning the indivdual has Stockholm Syndrome
 and (p ∧ r) ∨ q holds true
 
-p = indivdual with empathy 
-r = Stockholm Syndrome 
+p = indivdual with empathy<br> 
+r = Stockholm Syndrome<br>
 q = indivdual with Anti Social Personality disorder (ASPD) or Narcisstic Personality disorder (NPD)
 
 #### Both can pass the Turing Test 
