@@ -4,6 +4,9 @@
 This code uses my Mathematical Framework for Modeling Consciousness and puts it into code. 
 You can find my Mathematical Framework for Modeling Consciousness [here](https://heartfelt-fairy-92af03.netlify.app/research)
 
+You can find my code [here](./path/to/code_file.py)
+
+
 #### Steps
 
 ### The first step is Bayes Inference:
