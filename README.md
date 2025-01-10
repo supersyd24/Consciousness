@@ -21,6 +21,9 @@ You can find my code [here](mathematical.py)
     P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
 ```
 
+---
+
+
 ### The second step is Fuzzy Logic:
 <img src="fuzzyGit.jpg" alt="alt text" width="300">
 
@@ -28,6 +31,9 @@ You can find my code [here](mathematical.py)
     muLow = 1 - P_H_given_E  # Low Threat
     muHigh = P_H_given_E  # High Threat
 ```
+
+---
+
 
 ### The third step is Activation: 
 <img src="actgit.jpg" alt="alt text" width="300">
