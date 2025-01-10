@@ -4,9 +4,9 @@
 This code uses my Mathematical Framework for Modeling Consciousness and puts it into code. 
 You can find my Mathematical Framework for Modeling Consciousness [here](https://heartfelt-fairy-92af03.netlify.app/research)
 
-### Steps
+#### Steps
 
-#### The first step is Bayes Inference:
+### The first step is Bayes Inference:
 <img src="baytgit.jpg" alt="alt text" width="300">
 
 ```python
@@ -18,7 +18,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
     P_H_given_E = (P_E_given_H * P_H) / P_E  # Posterior Probability
 ```
 
-#### The second step is Fuzzy Logic:
+### The second step is Fuzzy Logic:
 <img src="fuzzyGit.jpg" alt="alt text" width="300">
 
 ```python
@@ -29,7 +29,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
     print("High Threat (μHigh):", muHigh)
 ```
 
-#### The third step is Activation: 
+### The third step is Activation: 
 <img src="actgit.jpg" alt="alt text" width="300">
 
 ```python
@@ -59,7 +59,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
             print("Program stops as t < 3600.")
             return
 ```
-#### The fourth step is Bayes Inference again: 
-<img src="baygit.jpg" alt="alt text" width="300">
+### The fourth step is Bayes Inference again: 
+<img src="baygit.jpg" alt="alt text" width="200">
 <img src="baytgit.jpg" alt="alt text" width="300">
 
