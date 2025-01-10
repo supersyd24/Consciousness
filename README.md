@@ -7,4 +7,5 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ### Steps
 
 The first step is Bayes Inference
-P(H|E) = P(E|H) * P(H) / P(E)
+![Bayes' Theorem](https://latex.codecogs.com/png.latex?P(H|E)%20=%20\frac{P(E|H)%20\cdot%20P(H)}{P(E)})
+
