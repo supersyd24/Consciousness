@@ -7,8 +7,7 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ### Steps
 
 #### The first step is Bayes Inference:
-![Bayes' Theorem](https://latex.codecogs.com/png.latex?P(H|E)%20=%20\frac{P(E|H)%20\cdot%20P(H)}{P(E)})
-
+<img src="baytgit.jpg" alt="alt text" width="300">
 ```python
  P_H = 0.78  # Prior Probability (Environment is dangerous)
     P_E_given_H = 0.81  # Likelihood that threat is real based on external stimuli
@@ -61,4 +60,5 @@ You can find my Mathematical Framework for Modeling Consciousness [here](https:/
 ```
 #### The fourth step is Bayes Inference again: 
 <img src="baygit.jpg" alt="alt text" width="300">
+<img src="baytgit.jpg" alt="alt text" width="300">
 
